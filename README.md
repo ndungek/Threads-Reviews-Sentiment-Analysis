@@ -16,7 +16,7 @@ In this project, we performed the following tasks:
 * Evaluated the models using cross-validation.
 
 ## Data Understanding
-The dataset was sourced from [Kaggle]("https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews"). It has 40435 rows and 4 columns.
+The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews). It has 40435 rows and 4 columns.
 The dataset consists of the following columns:
 
 * `source`: Indicates the source of the review, such as "Google Play" or "App Store."
